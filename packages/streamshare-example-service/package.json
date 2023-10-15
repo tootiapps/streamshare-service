@@ -10,7 +10,7 @@
     "start": "npm run build && node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "tootiapps",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
