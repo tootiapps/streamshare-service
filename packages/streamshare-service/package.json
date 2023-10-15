@@ -1,5 +1,5 @@
 {
-  "name": "streamshare-service",
+  "name": "@streamshare/service",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
